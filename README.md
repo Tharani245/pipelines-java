@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/tharanishanmugam245/Demo%20Project%201/_apis/build/status/Tharani245.pipelines-java?branchName=main)](https://dev.azure.com/tharanishanmugam245/Demo%20Project%201/_build/latest?definitionId=5&branchName=main)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
